@@ -27,3 +27,8 @@ isColaborate = FALSE, total = 0
 6. *Из общего DataFrame вычесть данные по WoS*
 7. *В полученном DataFrame, по всем элементам проверяем isCollaborate и N<1, то total = total + N * other * 1.2; Если нет total = total + N * other*
 8. *Вывести total*
+
+Ссылкы на проекты с получением квартилей
+
+Из Scopus: https://github.com/nerudxlf/get_affilietions_and_names_from_scopus
+Из WoS: https://github.com/nerudxlf/getting_quartiles_wos
