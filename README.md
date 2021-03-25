@@ -31,4 +31,5 @@ isColaborate = FALSE, total = 0
 Ссылкы на проекты с получением квартилей
 
 Из Scopus: https://github.com/nerudxlf/get_affilietions_and_names_from_scopus
+
 Из WoS: https://github.com/nerudxlf/getting_quartiles_wos
