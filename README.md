@@ -18,7 +18,7 @@ w1.xlsx, w2.xlsx, w3.xlsx, w4.xlsx, w_none.xlsx, s1.xlsx, s2.xlsx, s3.xlsx, s4.x
 Даны публикации по квартилям WOS( w1,w2,w3,w4,w_none) и по квартилям Scopus (s1,s2,s3,s4,s_none).
 
 Алгоритм
-isColaborate = FALSE, total = 0
+isColaborate = FALSE, total = 0 // N - доля ОмГТУ
 1. *По всем элементам в w1_list, проверяем isCollaborate и N<1, то total = total + N * WoSQ1 * 1.2; Если нет total = total + N * WoSQ1*
 2. *По всем элементам в w2_list, проверяем isCollaborate и N<1, то total = total + N * WoSQ2 * 1.2; Если нет total = total + N * WoSQ2*
 3. *По всем элементам в w3_list, проверяем isCollaborate и N<1, то total = total + N * WoSQ3 * 1.2; Если нет total = total + N * WoSQ3* 
