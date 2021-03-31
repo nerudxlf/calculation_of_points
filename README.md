@@ -33,7 +33,7 @@ total = 0
 7. *В полученном DataFrame, по всем элементам проверяем isCollaborate и Ni<1, то total = total + Ni * other * 1.2; Если нет total = total + Ni * other*
 8. *Вывести total*
 
-Ссылкы на проекты с получением квартилей
+Ссылки на проекты по разбиению публикаций по квартилям WoS(w1.xlsx, w2.xlsx, w3.xlsx, w4.xlsx, w_none.xlsx) и Scopus(s1.xlsx, s2.xlsx, s3.xlsx, s4.xlsx, s_none.xlsx)
 
 Из Scopus: https://github.com/nerudxlf/get_affilietions_and_names_from_scopus
 
